@@ -1,0 +1,15 @@
+C:\Users\Devin Andres Salemi\Desktop\REGIS\682\MULTITHREADEDSERVER\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Devin Andres Salemi\Desktop\REGIS\682\MULTITHREADEDSERVER\Server\Server\bin\Debug\Server.exe
+C:\Users\Devin Andres Salemi\Desktop\REGIS\682\MULTITHREADEDSERVER\Server\Server\bin\Debug\Server.pdb
+C:\Users\Devin Andres Salemi\Desktop\REGIS\682\MULTITHREADEDSERVER\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Devin Andres Salemi\Desktop\REGIS\682\MULTITHREADEDSERVER\Server\Server\obj\Debug\Server.exe
+C:\Users\Devin Andres Salemi\Desktop\REGIS\682\MULTITHREADEDSERVER\Server\Server\obj\Debug\Server.pdb
+C:\Users\Devin Andres Salemi\Desktop\REGIS\682\wk6\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Devin Andres Salemi\Desktop\REGIS\682\wk6\Server\Server\obj\Debug\Server.exe
+C:\Users\Devin Andres Salemi\Desktop\REGIS\682\wk6\Server\Server\obj\Debug\Server.pdb
+C:\Users\devin\Desktop\REGIS\682\wk6\Server\Server\bin\Debug\Server.exe.config
+C:\Users\devin\Desktop\REGIS\682\wk6\Server\Server\bin\Debug\Server.exe
+C:\Users\devin\Desktop\REGIS\682\wk6\Server\Server\bin\Debug\Server.pdb
+C:\Users\devin\Desktop\REGIS\682\wk6\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\devin\Desktop\REGIS\682\wk6\Server\Server\obj\Debug\Server.exe
+C:\Users\devin\Desktop\REGIS\682\wk6\Server\Server\obj\Debug\Server.pdb
